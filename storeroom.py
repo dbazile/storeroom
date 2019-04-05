@@ -13,7 +13,7 @@ if not os.path.exists(PUBLIC_DIR):
 
 
 app = flask.Flask(
-    name='storeroom',
+    'storeroom',
     static_folder=PUBLIC_DIR,
     static_url_path='/files')
 
