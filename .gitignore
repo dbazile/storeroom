@@ -3,3 +3,6 @@
 *.swp
 *.pyc
 *.pyo
+
+# Application temporary files
+/public
